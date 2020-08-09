@@ -74,4 +74,4 @@ Sorting
     **Usage**::
 
         arr = [21, 2, 3, 31, 45]
-        Array.sort(arr, 45)
+        Array.sort(arr)
