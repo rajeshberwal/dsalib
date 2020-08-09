@@ -5,6 +5,8 @@ dsalib is a clean and minimal Data Structure And Algorithms Library Implemented 
 
 You can now buy me a coffee! And help me create more awesome projects. : `Buy Me A Coffee <https://www.buymeacoffee.com/rajeshberwal>`_
 
+Source Code (Don't forget to put a star if you liked our project😅): `dsalib <https://github.com/rajeshberwal/dsalib>`_
+
 
 User's Guide
 ------------
