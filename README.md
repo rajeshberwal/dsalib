@@ -4,6 +4,8 @@
     <br><br><br>
 </p>
 
+[![Documentation Status](https://readthedocs.org/projects/dsalib/badge/?version=latest)](https://dsalib.readthedocs.io/en/latest/?badge=latest)
+
 Currently in development process. Help us to create more awesome projects: [Buy Me A Coffee](https://www.buymeacoffee.com/rajeshberwal)
 
 ## Install
