@@ -1,0 +1,8 @@
+dist/
+build/
+dsalib.egg-info/
+
+# Sphinx documentation
+docs/_build/
+
+/.vscode

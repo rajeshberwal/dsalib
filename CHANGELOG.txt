@@ -1,0 +1,11 @@
+Change Log
+==========
+
+0.0.33 (07/08/2020)
+------------------
+- Beta Version release
+- Added Search Algorithms
+- Added Support For Array Operations
+- Added Support For Stack Data Structure
+- Added Support For Queue Data Structure
+- Added Support For Merge Sort, Bubble Sort, Selection Sort, Insertion Sort Algorithms
