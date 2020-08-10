@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">dsalib</h1>
+    <img src="/docs/_static/logo.png" align="center">
     <p align="center">A clean and minimal Data Structure And Algorithms Library Implemented in Python.</p>
     <br><br><br>
 </p>
