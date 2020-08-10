@@ -10,7 +10,7 @@
 [![Documentation Status](https://readthedocs.org/projects/dsalib/badge/?version=latest)](https://dsalib.readthedocs.io/en/latest/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-Currently in development process. Help us to create more awesome projects: [Buy Me A Coffee](https://www.buymeacoffee.com/rajeshberwal)
+Currently in development process.
 
 ## Install
 
