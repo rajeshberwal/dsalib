@@ -12,6 +12,8 @@
 
 Currently in development process.
 
+**Documentation**: [dsalib](https://dsalib.readthedocs.io)
+
 ## Install
 
 If you have installed multiple versions of python then use:
