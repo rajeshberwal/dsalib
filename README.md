@@ -4,8 +4,11 @@
     <br><br><br>
 </p>
 
-[![PyPI version](https://badge.fury.io/py/dsalib.svg)](https://badge.fury.io/py/dsalib)
-[![Documentation Status](https://readthedocs.org/projects/dsalib/badge/?version=latest)](https://dsalib.readthedocs.io/en/latest/?badge=latest)
+[![PyPI version](https://badge.fury.io/py/dsalib.svg)](https://pypi.org/project/dsalib)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.org/project/dsalib)
+[![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.org/project/dsalib)
+[![Documentation Status](https://readthedocs.org/projects/dsalib/badge/?version=latest)](https://dsalib.readthedocs.io/en/latest/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 Currently in development process. Help us to create more awesome projects: [Buy Me A Coffee](https://www.buymeacoffee.com/rajeshberwal)
 
