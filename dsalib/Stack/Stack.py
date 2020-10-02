@@ -18,7 +18,7 @@ class Stack:
         """Add data at the end of the stack.
 
         Args:
-            data (object): element that we want to add
+            data (Any): element that we want to add
         """
         self.stack.append(data)
         self._top += 1
@@ -30,7 +30,7 @@ class Stack:
             IndexError: If stack is empty raise an Index error
 
         Returns:
-            object: element that we have removed from stack"""
+            Any: element that we have removed from stack"""
         if self.is_empty():
             raise IndexError("stack is empty")
         self._top += 1
